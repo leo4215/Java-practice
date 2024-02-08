@@ -13,3 +13,4 @@ Contents:
 • Exercises 5: Classes, attributes, methods, functions, static members, construtors, "this", overloading, encapsulation, and access modifiers
 • Exercises 6: Arrays
 • Exercises 7: Lists, and 2D arrays
+• Exercises 8: Classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
