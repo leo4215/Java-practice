@@ -3,8 +3,9 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class Practice1 {
+public class Program1 {
     public static void main(String[] args) {
+        
         DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         DateTimeFormatter fmt2 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
 

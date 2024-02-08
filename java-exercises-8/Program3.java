@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 
-public class Practice3 {
+public class Program3 {
     public static void main(String[] args) {
 
         LocalDate d04 = LocalDate.parse("2022-07-20");

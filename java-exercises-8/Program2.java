@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-public class Practice2 {
+public class Prrogram2 {
     public static void main(String[] args) {
 
         LocalDate d04 = LocalDate.parse("2022-07-20");
