@@ -14,4 +14,4 @@ Contents:
 • Exercises 6: Arrays
 • Exercises 7: Lists, and 2D arrays
 • Exercises 8: Practices with classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
-• Exercises 9: Enum, and Composition
+• Exercises 9: Enum, Composition, and class StringBuilder
