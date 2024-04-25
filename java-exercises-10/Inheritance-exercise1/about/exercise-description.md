@@ -1,0 +1,3 @@
+## Exercise description
+
+A company has its own employees and outsourced employees. For each employee, you want to record name, hours and hourly rates. Outsourced Employees They also have an additional expense. Employees' pay is hourly multiplied by the hours worked, and the Outsourced employees still get a bonus corresponding to 110% of your additional expense. Make a program to read the data of N employees (N user-provided data) and store them in a list. After to read all the data, show name and payment of each employee in the same order in which they were typed. Build the program as per the diagram.
