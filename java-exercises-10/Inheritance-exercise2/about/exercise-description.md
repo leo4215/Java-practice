@@ -1,0 +1,3 @@
+## Exercise description
+
+Make a program to read the data from N products (N provided by the user). In the end, show the price tag of each product in the same order in which they were typed. Every product has a name and price. Imported goods have a customs fee, and used products have a date of manufacture. This specific data should be added to the price tag as in the example. For imported products, the duty and customs should be added to the final price of the product.

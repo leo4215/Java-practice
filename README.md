@@ -15,4 +15,4 @@ Contents:
 • Exercises 7: Lists, and 2D arrays
 • Exercises 8: Practices with classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
 • Exercises 9: Enum, Composition, and class StringBuilder
-• Exercises 10: Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), and Polymorphism
+• Exercises 10: Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), Polymorphism, and Abstract classes
