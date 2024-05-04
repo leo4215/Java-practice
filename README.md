@@ -16,3 +16,4 @@ Contents:
 • Exercises 8: Practices with classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
 • Exercises 9: Enum, Composition, and class StringBuilder
 • Exercises 10: Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), Polymorphism, and Abstract elements (classes and methods)
+• Exercises 11: Exceptions (Throw, Throws, Try-Catch-Finally, StackTrace, Custom Exceptions, MVC)
