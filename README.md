@@ -17,3 +17,4 @@ Contents:
 • Exercises 9: Enum, Composition, and class StringBuilder
 • Exercises 10: Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), Polymorphism, and Abstract elements (classes and methods)
 • Exercises 11: Exceptions (Throw, Throws, Try-Catch-Finally, StackTrace, Custom Exceptions, MVC)
+• Exercises 12: Reading files (Classes File, Scanner and IOEception)
