@@ -6,15 +6,16 @@ Note that for each exercise you will find the code solution and its description,
 
 Contents:
 
-• Exercises 1: Sequential Structure (input, processing, output)
-• Exercises 2: Conditional Structure (if-else)
-• Exercises 3: Repetitive Structure (while, do-while)
-• Exercises 4: Repetitive Structure (for)
-• Exercises 5: Classes, attributes, methods, functions, static members, construtors, "this", overloading, encapsulation, and access modifiers
-• Exercises 6: Arrays
-• Exercises 7: Lists, and 2D arrays
-• Exercises 8: Practices with classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
-• Exercises 9: Enum, Composition, and class StringBuilder
-• Exercises 10: Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), Polymorphism, and Abstract elements (classes and methods)
-• Exercises 11: Exceptions (Throw, Throws, Try-Catch-Finally, StackTrace, Custom Exceptions, MVC)
-• Exercises 12: Reading files (Classes File, Scanner and IOEception)
+1. Sequential Structure (input, processing, output)
+2. Conditional Structure (if-else)
+3. Repetitive Structure (while, do-while)
+4. Repetitive Structure (for)
+5. Classes, attributes, methods, functions, static members, construtors, "this", overloading, encapsulation, and access modifiers
+6. Arrays
+7. Lists, and 2D arrays
+8. Practices with classes LocalDate, LocalDateTime, Instant, Duration, ZoneId, and ChronoUnit
+9. Enum, Composition, and class StringBuilder
+10. Inheritance (Super, Upcasting, Downcasting, instanceof, Overriding), Polymorphism, and Abstract elements (classes and methods)
+11. Exceptions (Throw, Throws, Try-Catch-Finally, StackTrace, Custom Exceptions, MVC)
+12. Reading files (Classes File, Scanner and IOEception)
+13. Interfaces
