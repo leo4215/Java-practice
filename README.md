@@ -19,3 +19,4 @@ Contents:
 11. Exceptions (Throw, Throws, Try-Catch-Finally, StackTrace, Custom Exceptions, MVC)
 12. Reading files (Classes File, Scanner and IOEception)
 13. Interfaces
+14. Generics, Set, and Map

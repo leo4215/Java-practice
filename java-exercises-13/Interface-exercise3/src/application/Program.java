@@ -43,7 +43,6 @@ public class Program {
             System.out.println("Error: " + e.getMessage());
         }
 
-
         sc.close();
     }
 }
