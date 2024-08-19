@@ -20,3 +20,4 @@ Contents:
 12. Reading files (Classes File, Scanner and IOEception)
 13. Interfaces
 14. Generics, Set, and Map
+15. Lambda expressions, Functional Interfaces (Comparator, Predicate, Consumer, Function)
